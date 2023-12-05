@@ -70,8 +70,8 @@ entries:
     - apiVersion: v2
       appVersion: 1.16.0
       created: "2023-08-30T11:38:07.710219121+05:30"
-      description: A Helm chart for Kubernetes
-      digest: a58f8029c93b53e853328e4baa7dbb22969b5ad8167306bd56bbb092522e9df7
+      description: A Helm chart of GenAI for Kubernetes
+      digest: 0333c46087e1698e3f6533ba8b4ac050acf89bbb84865d919a90888e1e9fdf2f
       name: genai
       type: application
       urls:
